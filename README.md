@@ -5,7 +5,7 @@ Allows the use and output of python scripts with parameters and changeable varia
 s=""
 lst=[]
 print(s)
-for i in lst
+for i in lst :
   print(i)
 ```
 ```java
